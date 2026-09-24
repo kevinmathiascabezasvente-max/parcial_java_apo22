@@ -1,0 +1,10 @@
+# Parcial 1 - Voltacali S.A.S.
+Sistema de gestión de cargadores para vehículos eléctricos.
+
+## Integrante
+- Tu nombre completo
+
+## Compilar y ejecutar
+```bash
+mvn clean compile
+mvn exec:java -Dexec.mainClass="co.edu.usc.voltacali.App"
